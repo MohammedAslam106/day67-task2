@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 90px 580px;
+    text-align: center;
+
+}
+
+.head{
+    background-color: limegreen;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.middle{
+    padding-top: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#name{
+    padding-left: 10px;
+}
+.upi{
+    line-height: 0;
+}
+.content{
+    padding-top: 20px;
+    line-height: 5px;
+}
+.main{
+    background-color:rgb(196, 168, 123);
+}
+.qr{
+    margin-left:60px;
+    margin-right:60px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
